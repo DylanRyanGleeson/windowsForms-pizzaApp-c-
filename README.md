@@ -1,7 +1,7 @@
-*** Lab 1 – 15% ***
-** Applications Development **
-** 10% - code **
-** 5%- in class addition on signoff day **
+Lab 1 – 15%
+Applications Development
+10% - code
+5%- in class addition on signoff day
 SD2
 Process Pizza order:
 Create a system with the following rules:
@@ -35,6 +35,5 @@ Sides: XXXXXXXX, XXXXXXXXXX, XXXXXXXX
 Cost: xxxxx
 
 	Total Due: XXXXX.XX
-
 
 
